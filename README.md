@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Zekeriya Bilgin — Who am I?</h1>
+<h1 align="center">Hi 👋, I'm Zekeriya — Who am I?</h1>
 <h3 align="center">🎓 Computer Engineering Student | 🤖 AI/ML Enthusiast | 📱 Mobile Developer</h3>
 
 ---
