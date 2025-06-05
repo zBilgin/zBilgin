@@ -21,7 +21,7 @@
 ---
 <br>
 
-💡 I'm a final-year Computer Engineering student passionate about building AI-powered mobile applications and computer vision systems.
+💡 I'm a final-year Computer Engineering student with a passion for developing AI-powered mobile applications, machine learning, and automation-agent systems.
 
 <br>
 
@@ -29,7 +29,7 @@
 <br>
 
 **ML & NLP Techniques:**  
-`Classification`, `Clustering`, `Regression`, `CNN`, `Transformers`, `NLP` and more.
+`Classification`, `Clustering`, `Regression`, `CNN`, `Transformers` and more.
 
 
 <br>
