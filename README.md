@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Zekeriya — Who am I?</h1>
-<h3 align="center">🎓 Computer Engineering Student | 🤖 AI/ML Enthusiast | 📱 Mobile Developer</h3>
+<h1 align="center">Hi 👋, I'm Zekeriya Bilgin</h1>
+<h3 align="center">💻 Computer Engineer | 🤖 AI & Machine Learning | 🧠 Computer Vision & NLP</h3>
 
 ---
 
@@ -21,7 +21,7 @@
 ---
 <br>
 
-💡 I'm a final-year Computer Engineering student with a passion for developing AI-powered mobile applications, machine learning, and automation-agent systems.
+💡 I'm a computer engineer with a focus on artificial intelligence and machine learning, particularly computer vision and natural language processing. I'm interested in applying these fields to mobile applications and agent-based automation systems.
 
 <br>
 
@@ -171,6 +171,7 @@
 **Actively Using**
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" title="Windows"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" title="macOS" alt="macOS"/>
 
 **Currently Learning**
 <br/>
